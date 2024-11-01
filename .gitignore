@@ -1,0 +1,6 @@
+# This doc should list out all the files we do not want to get pushed to the remote repo.
+
+# Anything with .txt as the suffix should not be added to the remote repo.
+
+*.txt
+.DS_Store
